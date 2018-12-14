@@ -1,0 +1,3 @@
+/home/evv/CLionProjects/FacenetClassifier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/evv/CLionProjects/FacenetClassifier/cmake-build-debug/CMakeFiles/FacenetClassifier.dir
+/home/evv/CLionProjects/FacenetClassifier/cmake-build-debug/CMakeFiles/edit_cache.dir
